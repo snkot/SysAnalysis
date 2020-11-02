@@ -49,3 +49,4 @@
 ## Требования к представлению сайта
 
 ### Страница «Welcome»
+![](https://drive.google.com/file/d/1LMMSJiNOmahRo7BfmClY2O-VKjA-fc4b/view?usp=sharing)
