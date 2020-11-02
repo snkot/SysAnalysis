@@ -49,4 +49,4 @@
 ## Требования к представлению сайта
 
 ### Страница «Welcome»
-![](pics\pageWelcome.png)
+![](..\pics\pageWelcome.png)
