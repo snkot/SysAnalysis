@@ -49,4 +49,4 @@
 ## Требования к представлению сайта
 
 ### Страница «Welcome»
-![](..\pics\pageWelcome.png)
+![Страница Welcome](https://github.com/snkot/SysAnalysis/blob/docs/pics/pageWelcome.png)
