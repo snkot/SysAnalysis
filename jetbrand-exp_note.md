@@ -96,13 +96,17 @@
 ## Макеты интерфейсов
 ### Welcome
 ![Страница Welcome](https://github.com/snkot/SysAnalysis/blob/docs/pics/pageWelcome.png)
+Приветственная страница. Сразу предлагает пользователю воспользоваться сервис.    
 
 ### Option
 ![Страница Option_0](https://github.com/snkot/SysAnalysis/blob/docs/pics/pageOptions_0.png)
 ![Страница Option_1](https://github.com/snkot/SysAnalysis/blob/docs/pics/pageOptions_1.png)
+Страницы, на которых пользователь задает различные атрибуты для дизайна (палитра, слоган, ключевые слова и тд).
 
 ### Result
 ![Страница Result](https://github.com/snkot/SysAnalysis/blob/docs/pics/pageResult.png)
+Страница с результатом работы нейронки. Здесь пользователь может выбрать понравившийся дизайн.
 
 ### Preview
 ![Страница Preview](https://github.com/snkot/SysAnalysis/blob/docs/pics/pagePreview.png)
+Сраница предпросмотра демонстрирует, как будет выглядить дизайн "вживую" (на визитках, стикерах, футболках и тд). 
