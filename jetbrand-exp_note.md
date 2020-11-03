@@ -1,4 +1,4 @@
-# Проект «JetBrand» — ПЗ
+# Проект "JetBrand" — Пояснительная записка
 
 ## Цели и задачи проекта
 Цель проекта: дать малому и среднему бизнесу доступный и привлекательный дизайн.
@@ -50,6 +50,10 @@
 ### Направление деятельности
 Предметом и целью деятельности проекта является обеспечение малого и среднего бизнеса доступный и привлекательный дизайном.
 
+### Ключевые процессы
+- Обучение нейронной сети.
+- Сервис - долгосрочная поддержка продукта и пользователей.
+
 ### Приемущества
 - Полноценный векторный редактор в браузере. Пользователь может сразу внести необходимые коррективы в дизайн.
 - Поддержка всех пользователей без исключений.
@@ -79,4 +83,26 @@
 - Зависимость диайна от прибыли. Чем лучше компания выделяется из толпы, тем больше прибыли она может привлечь.
 - Дороговизна эксклюзивного дизайна.
 
-Для решения данных проблем разработана концептуальнеая часть проекта JetBrand. 
+Для решения данных проблем разработана концептуальнеая часть проекта JetBrand.
+
+# Проект "JetBrand" — Технический проект
+
+## Диаграмма прецедентов
+![UML - прецеденты](https://github.com/snkot/SysAnalysis/blob/docs/pics/jetbrand-uml.png)
+
+## Диаграмма классов
+![UML - классы](https://github.com/snkot/SysAnalysis/blob/docs/pics/jetbrand-class_diagram.png)
+
+## Макеты интерфейсов
+### Welcome
+![Страница Welcome](https://github.com/snkot/SysAnalysis/blob/docs/pics/pageWelcome.png)
+
+### Option
+![Страница Option_0](https://github.com/snkot/SysAnalysis/blob/docs/pics/pageOptions_0.png)
+![Страница Option_1](https://github.com/snkot/SysAnalysis/blob/docs/pics/pageOptions_1.png)
+
+### Result
+![Страница Result](https://github.com/snkot/SysAnalysis/blob/docs/pics/pageResult.png)
+
+### Preview
+![Страница Preview](https://github.com/snkot/SysAnalysis/blob/docs/pics/pagePreview.png)
