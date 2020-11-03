@@ -96,7 +96,7 @@
 ## Макеты интерфейсов
 ### Welcome
 ![Страница Welcome](https://github.com/snkot/SysAnalysis/blob/docs/pics/pageWelcome.png)
-Приветственная страница. Сразу предлагает пользователю воспользоваться сервис.    
+Приветственная страница. Сразу предлагает пользователю воспользоваться сервисом.    
 
 ### Option
 ![Страница Option_0](https://github.com/snkot/SysAnalysis/blob/docs/pics/pageOptions_0.png)
