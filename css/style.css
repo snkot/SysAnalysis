@@ -15,7 +15,7 @@ h1 {
     display: block;
     width: 100vw;
     height: 160px;
-    background: #faf710;
+    background: #cce9ff;
 }
 
 .text-slogan {
@@ -28,10 +28,10 @@ h1 {
 
 h2 {
     font-family: Arial, sans-serif;
-    font-size: 18px;
-    color: #000000;
-    text-align: center;
-    line-height: 1.2;
+    font-size: 28px;
+    color: #241823;
+    /*text-align: center;*/
+    line-height: 1.5;
 }
 
 .container-1 {
@@ -46,9 +46,21 @@ h2 {
 
 .container-3 {
     display: flex;
+    justify-content: center;
 }
 
-.box {
+.text-box {
     flex-basis: 20%;
-    padding: 4%;
+    margin-top: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+
+    font-family: Arial, sans-serif;
+    font-size: 21px;
+    color: #686868;
+    line-height: 1.2;
+}
+
+.image-box {
+    flex-basis: 20%;
 }
