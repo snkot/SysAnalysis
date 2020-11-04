@@ -14,7 +14,7 @@ h1 {
 .site-head {
     display: block;
     width: 100vw;
-    height: 20vh;
+    height: 160px;
     background: #faf710;
 }
 
@@ -34,14 +34,21 @@ h2 {
     line-height: 1.2;
 }
 
-.text-box-left {
-    margin-left: 50px;
-    margin-right: 500px;
-    border: 1px solid gray;
+.container-1 {
+    display: flex;
+    justify-content: center;
+}
 
-    font-family: Arial, sans-serif;
-    font-size: 16px;
-    color: #000000;
-    text-align: left;
-    line-height: 1;
+.container-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.container-3 {
+    display: flex;
+}
+
+.box {
+    flex-basis: 20%;
+    padding: 4%;
 }
