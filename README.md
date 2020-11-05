@@ -1,2 +1,1 @@
-# SysAnalysis
- Ветка с landing page'ом проекта.
+# Landing page
