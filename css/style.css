@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-family: Impact, fantasy;
+    font-size: 70px;
+    color: #000000;
+    text-align: center;
+    line-height: 1.5;
+}
+
+.site-head {
+    display: block;
+    width: 100vw;
+    height: 160px;
+    background: #cce9ff;
+}
+
+.text-slogan {
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    color: #000000;
+    text-align: center;
+    line-height: 1;
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    color: #241823;
+    /*text-align: center;*/
+    line-height: 1.5;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.text-box {
+    flex-basis: 20%;
+    margin-top: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+
+    font-family: Arial, sans-serif;
+    font-size: 21px;
+    color: #686868;
+    line-height: 1.2;
+}
+
+.image-box {
+    flex-basis: 20%;
+}
+
+.sub-box {
+    font-family: Arial, sans-serif;
+    font-size: 28px;
+    color: #000000;
+    text-align: center;
+    line-height: 2;
+}
